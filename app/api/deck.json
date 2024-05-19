@@ -1,0 +1,156 @@
+{
+    "deck-name": "German",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": ["Ich", "lerne", "Deutsch."],
+            "translation": ["I", "am", "learning", "German."]
+        },
+        {
+            "id": 1,
+            "sentence": ["Das", "Wetter", "ist", "schön", "heute."],
+            "translation": ["The", "weather", "is", "nice", "today."]
+        },
+        {
+            "id": 2,
+            "sentence": ["Wie", "heißt", "du?"],
+            "translation": ["What", "is", "your", "name?"]
+        },
+        {
+            "id": 3,
+            "sentence": ["Ich", "habe", "Hunger."],
+            "translation": ["I", "am", "hungry."]
+        },
+        {
+            "id": 4,
+            "sentence": ["Er", "geht", "zur", "Schule."],
+            "translation": ["He", "is", "going", "to", "school."]
+        },
+        {
+            "id": 5,
+            "sentence": ["Ich", "liebe", "Musik."],
+            "translation": ["I", "love", "music."]
+        },
+        {
+            "id": 6,
+            "sentence": ["Wir", "spielen", "Fußball."],
+            "translation": ["We", "are", "playing", "soccer."]
+        },
+        {
+            "id": 7,
+            "sentence": ["Sie", "liest", "ein", "Buch."],
+            "translation": ["She", "is", "reading", "a", "book."]
+        },
+        {
+            "id": 8,
+            "sentence": ["Ich", "möchte", "einen", "Kaffee."],
+            "translation": ["I", "would", "like", "a", "coffee."]
+        },
+        {
+            "id": 9,
+            "sentence": ["Wo", "ist", "die", "Toilette?"],
+            "translation": ["Where", "is", "the", "toilet?"]
+        },
+        {
+            "id": 10,
+            "sentence": ["Ich", "komme", "aus", "Deutschland."],
+            "translation": ["I", "come", "from", "Germany."]
+        },
+        {
+            "id": 11,
+            "sentence": ["Kannst", "du", "mir", "helfen?"],
+            "translation": ["Can", "you", "help", "me?"]
+        },
+        {
+            "id": 12,
+            "sentence": ["Ich", "mag", "Katzen."],
+            "translation": ["I", "like", "cats."]
+        },
+        {
+            "id": 13,
+            "sentence": ["Was", "machst", "du?"],
+            "translation": ["What", "are", "you", "doing?"]
+        },
+        {
+            "id": 14,
+            "sentence": ["Das", "ist", "mein", "Haus."],
+            "translation": ["This", "is", "my", "house."]
+        },
+        {
+            "id": 15,
+            "sentence": ["Wie", "spät", "ist", "es?"],
+            "translation": ["What", "time", "is", "it?"]
+        },
+        {
+            "id": 16,
+            "sentence": ["Ich", "gehe", "ins", "Bett."],
+            "translation": ["I", "am", "going", "to", "bed."]
+        },
+        {
+            "id": 17,
+            "sentence": ["Ich", "bin", "müde."],
+            "translation": ["I", "am", "tired."]
+        },
+        {
+            "id": 18,
+            "sentence": ["Ich", "bin", "glücklich."],
+            "translation": ["I", "am", "happy."]
+        },
+        {
+            "id": 19,
+            "sentence": ["Er", "ist", "mein", "Freund."],
+            "translation": ["He", "is", "my", "friend."]
+        },
+        {
+            "id": 20,
+            "sentence": ["Ich", "habe", "keine", "Zeit."],
+            "translation": ["I", "don't", "have", "time."]
+        },
+        {
+            "id": 21,
+            "sentence": ["Ich", "brauche", "Hilfe."],
+            "translation": ["I", "need", "help."]
+        },
+        {
+            "id": 22,
+            "sentence": ["Wie", "viel", "kostet", "das?"],
+            "translation": ["How", "much", "does", "it", "cost?"]
+        },
+        {
+            "id": 23,
+            "sentence": ["Ich", "verstehe", "das", "nicht."],
+            "translation": ["I", "don't", "understand", "that."]
+        },
+        {
+            "id": 24,
+            "sentence": ["Wo", "wohnst", "du?"],
+            "translation": ["Where", "do", "you", "live?"]
+        },
+        {
+            "id": 25,
+            "sentence": ["Was", "ist", "dein", "Hobby?"],
+            "translation": ["What", "is", "your", "hobby?"]
+        },
+        {
+            "id": 26,
+            "sentence": ["Ich", "gehe", "einkaufen."],
+            "translation": ["I", "am", "going", "shopping."]
+        },
+        {
+            "id": 27,
+            "sentence": ["Hast", "du", "Geschwister?"],
+            "translation": ["Do", "you", "have", "siblings?"]
+        },
+        {
+            "id": 28,
+            "sentence": ["Ich", "habe", "eine", "Schwester."],
+            "translation": ["I", "have", "a", "sister."]
+        },
+        {
+            "id": 29,
+            "sentence": ["Was", "ist", "los?"],
+            "translation": ["What's", "up?"]
+        }
+    ]
+}
+
