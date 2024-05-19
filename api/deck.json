@@ -1,0 +1,21 @@
+{
+    "deck-name": "Polish",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Ola szykuje się do szkoły.",
+            "translation": "Ola is getting ready for school."
+        },
+        {
+            "id": 1,
+            "sentence": "Jest już w piątej klasie.",
+            "translation": "He is already in the fifth grade."
+        },
+        {
+            "id": 2,
+            "sentence": "Dawniej obawiała się szkoły, teraz bardzo lubi tam chodzić.",
+            "translation": "She used to be afraid of school, but now she really enjoys going there."
+        }  
+    ]
+
+}
