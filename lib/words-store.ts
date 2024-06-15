@@ -11,4 +11,14 @@ const useWordsStore = create<Store>()((set) => ({
 		set((state) => ({ words: [...state.words, word] })),
 }));
 
-export { useWordsStore }
+const getWordsFromDB = async () => {
+	const res = await fetch("/api/words", {
+		method: "GET",
+		headers: {
+			"Content-Type": "application/json",
+		},
+	})
+	return res.json()
+}
+
+export { useWordsStore, getWordsFromDB }

@@ -17,7 +17,7 @@ import { MenuIcon } from "./icons/menu-icon";
 
 export default function Navbar() {
 	return (
-		<nav className="border-b-black w-full p-4 flex flex-row justify-between sticky top-0 shadow-sm">
+		<nav className="border-b-black w-full p-4 flex flex-row justify-between sticky top-0 shadow-sm z-50 bg-white">
 			<h1 className="text-2xl">
 				CON<b className="text-primary">_text</b>UALIZE
 			</h1>
@@ -42,12 +42,20 @@ const MenuButtons = () => {
 	return (
 		<NavigationMenu>
 			<NavigationMenuList>
-				<NavigationMenuItem>
-					<NavigationMenuTrigger>WORDS</NavigationMenuTrigger>
+			<NavigationMenuItem>
+					<Link href="/sentences" legacyBehavior passHref>
+						<NavigationMenuLink className={navigationMenuTriggerStyle()}>
+							READ
+						</NavigationMenuLink>
+					</Link>
 				</NavigationMenuItem>
 
 				<NavigationMenuItem>
-					<NavigationMenuTrigger>SENTENCES</NavigationMenuTrigger>
+					<Link href="/sentences" legacyBehavior passHref>
+						<NavigationMenuLink className={navigationMenuTriggerStyle()}>
+							SENTENCES
+						</NavigationMenuLink>
+					</Link>
 				</NavigationMenuItem>
 
 				<NavigationMenuItem>

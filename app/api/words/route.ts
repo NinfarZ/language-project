@@ -8,7 +8,7 @@ export async function GET() {
 export async function POST(request: Request) {
   const data = await request.json()
   const newWord = {
-    id: words.length + 1,
+    id: (words.length - 1) + 1,
     text: data.text,
     occurances: 1
 
@@ -21,3 +21,5 @@ export async function POST(request: Request) {
     status: 201,
   })
 }
+
+
