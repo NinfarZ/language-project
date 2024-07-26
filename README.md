@@ -2,7 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Project Summary
 
-A platform to aid in the language learning process. You can create flash cards based on context, as well as read texts you import. Sentences you already know or need to practice will be highlighted.
+A full stack platform to aid in the language learning process. You can create flash cards based on context, as well as read texts you import. Sentences you already know or need to practice will be highlighted.
+
+## Tech Stack
+NextJS 14, TypeScript, Tailwind CSS, Zustand, MongoDB
 
 
 ## Screenshots
