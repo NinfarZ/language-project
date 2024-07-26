@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Project Summary
 
-A platform to aid in the language learning process. You can create flash cards based on context, as well as read and texts you import. Sentences you already know or need to practice will be highlighted.
+A platform to aid in the language learning process. You can create flash cards based on context, as well as read texts you import. Sentences you already know or need to practice will be highlighted.
 
 
 ## Screenshots
